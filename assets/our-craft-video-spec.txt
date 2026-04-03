@@ -1,0 +1,56 @@
+Single continuous realistic cinematic shot (4K) for Our Craft section
+
+Primary directive:
+Create a single continuous realistic cinematic shot inside a modern indoor workspace. No cuts.
+
+Scene sequence (strict):
+1. Start with a college student sitting at a desk in a dimly lit room.
+2. Desk contains a laptop with unfinished code, scattered papers, and handwritten notes.
+3. Student looks confused and frustrated, holding their head.
+4. Camera performs a slow dolly-in toward the student.
+5. During the same shot, the environment gradually transforms into a clean, well-lit, modern workspace.
+6. Desk becomes organized.
+7. Laptop screen transitions from incomplete code to a structured, working project interface (software UI or engineering project dashboard).
+8. Show clear minimal UI overlays in sequence (as clean interface labels/panels, not abstract objects):
+   - Client Inquiry
+   - Requirement Analysis
+   - Development
+   - Delivery & Support
+9. Student posture shifts from stressed to focused.
+10. Student types confidently and interacts with a fully functional system.
+11. End of same shot: project is visibly completed and running on screen.
+12. Student appears confident and satisfied.
+13. Final overlay on clean warm-toned background:
+   - From Idea to Execution
+   - Engineered Ideas. Delivered Results.
+
+Hard exclusions (must not appear):
+- No flowers
+- No plants
+- No nature scenes
+- No blooming objects
+- No abstract metaphors
+- No surreal visuals
+- No artistic symbolism
+- No landscapes
+- No unrelated visuals
+
+Style lock:
+- Realistic
+- Grounded
+- Professional
+- Indoor tech workspace
+- Cinematic lighting
+- Warm tones (brown, maroon, beige)
+- Minimal UI overlays
+- Startup advertisement style
+- 4K
+- No fantasy elements
+
+Export and web embedding requirements:
+- Output: MP4 (H.264) and WebM (VP9/AV1)
+- Optimized for web playback
+- Autoplay-friendly (muted, loop)
+- Target files:
+  - assets/our-craft-journey.mp4
+  - assets/our-craft-journey.webm
